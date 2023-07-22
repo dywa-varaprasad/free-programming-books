@@ -64,6 +64,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Forth](#forth)
 * [Fortran](#fortran)
 * [FreeBSD](#freebsd)
+* [Git](#git)
 * [Go](#go)
 * [GraphQL](#graphql)
 * [Groovy](#groovy)
@@ -76,8 +77,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Haxe](#haxe)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
-    * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
-* [HTTP](#http)
+    * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan.
+* [HTTP](#http )
 * [HTTPS](#https)
 * [Icon](#icon)
 * [iOS](#ios)
@@ -815,6 +816,12 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
 
+
+### <a id="git"></a> git
+
+
+* [git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - John Wiegley
+* [Learn version control with git](https://www.git-tower.com/learn/git/ebook)  - Tower
 
 ### Go
 
